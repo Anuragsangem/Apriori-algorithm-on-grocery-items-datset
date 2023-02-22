@@ -1,1 +1,1 @@
-# Apriori-algorithm-on-grocery-items-datset
+# Apriori-algorithm implementation-on-grocery-items-datset
